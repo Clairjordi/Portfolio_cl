@@ -4,9 +4,7 @@ import ProjectsList from './components/Projects';
 import img_portrait from './imgs/portrait_crop.png'
 
 function App() {
-  return (
-    // <div className="bg-cover" style={{ backgroundImage: "url('https://wallpapercave.com/wp/wp6690976.jpg')" }}>
-    
+  return (    
     <div class="h-full w-full bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-[#1b537b] via-[#112840] to-[#0d141f]">
       <Header />
       <div className="grid grid-rows-3 lg:gap-6">
@@ -46,7 +44,6 @@ function App() {
         </section>
       </div>
     </div>
-
   );
 }
 

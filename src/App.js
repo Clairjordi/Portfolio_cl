@@ -24,8 +24,8 @@ function App() {
                   ABOUT
                 </h1>
                 <p className="text-neutral-200 mt-2">
-                  Scuta habitus terrebat et certamen gestu scuta sed concitat terrebat consurgentem certamen sed concitat consurgentem securitas iram qui proximos eum bene
-                  parans eum parans iram rati pugnantium terrebat in habitus in occurrere occurrere quorum securitas bene quorum gestu certamen poterat
+                  For me, programming is an environment where I like to explore new fields and technologies. Having versatile skills such as autonomy, adaptability and even curiosity, I am an asset for companies. 
+                  During my studies at Ecole 42, I improved my knowledge of programming, my peer learning but also my desire to take on new challenges.
                 </p>
               </div>
               <div className="h-2 w-full bg-gradient-to-l via-yellow-500 group-hover:blur-xl blur-2xl m-auto rounded transition-all absolute bottom-0"></div>
